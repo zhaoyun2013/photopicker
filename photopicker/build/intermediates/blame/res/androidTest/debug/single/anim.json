@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/zhaoyun/work/AndroidStudioProjects/PhotoPicker/photopicker/build/intermediates/res/merged/androidTest/debug/anim/anim_entry_from_bottom.xml",
+        "source": "/home/zhaoyun/work/AndroidStudioProjects/PhotoPicker/photopicker/build/intermediates/bundles/debug/res/anim/anim_entry_from_bottom.xml"
+    },
+    {
+        "merged": "/home/zhaoyun/work/AndroidStudioProjects/PhotoPicker/photopicker/build/intermediates/res/merged/androidTest/debug/anim/anim_leave_from_bottom.xml",
+        "source": "/home/zhaoyun/work/AndroidStudioProjects/PhotoPicker/photopicker/build/intermediates/bundles/debug/res/anim/anim_leave_from_bottom.xml"
+    }
+]

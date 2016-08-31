@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/zhaoyun/work/AndroidStudioProjects/PhotoPicker/photopicker/build/intermediates/res/merged/androidTest/debug/color/default_text_color.xml",
+        "source": "/home/zhaoyun/work/AndroidStudioProjects/PhotoPicker/photopicker/build/intermediates/bundles/debug/res/color/default_text_color.xml"
+    },
+    {
+        "merged": "/home/zhaoyun/work/AndroidStudioProjects/PhotoPicker/photopicker/build/intermediates/res/merged/androidTest/debug/color/floder_name_color_selector.xml",
+        "source": "/home/zhaoyun/work/AndroidStudioProjects/PhotoPicker/photopicker/build/intermediates/bundles/debug/res/color/floder_name_color_selector.xml"
+    }
+]

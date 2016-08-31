@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "/home/zhaoyun/work/AndroidStudioProjects/PhotoPicker/photopicker/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/ic_camera.png",
+        "source": "/home/zhaoyun/work/AndroidStudioProjects/PhotoPicker/photopicker/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/ic_camera.png"
+    },
+    {
+        "merged": "/home/zhaoyun/work/AndroidStudioProjects/PhotoPicker/photopicker/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/text_indicator_pressed.png",
+        "source": "/home/zhaoyun/work/AndroidStudioProjects/PhotoPicker/photopicker/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/text_indicator_pressed.png"
+    },
+    {
+        "merged": "/home/zhaoyun/work/AndroidStudioProjects/PhotoPicker/photopicker/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/text_indicator_normal.png",
+        "source": "/home/zhaoyun/work/AndroidStudioProjects/PhotoPicker/photopicker/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/text_indicator_normal.png"
+    },
+    {
+        "merged": "/home/zhaoyun/work/AndroidStudioProjects/PhotoPicker/photopicker/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/ic_dir_choose.png",
+        "source": "/home/zhaoyun/work/AndroidStudioProjects/PhotoPicker/photopicker/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/ic_dir_choose.png"
+    },
+    {
+        "merged": "/home/zhaoyun/work/AndroidStudioProjects/PhotoPicker/photopicker/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/btn_selected.png",
+        "source": "/home/zhaoyun/work/AndroidStudioProjects/PhotoPicker/photopicker/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/btn_selected.png"
+    },
+    {
+        "merged": "/home/zhaoyun/work/AndroidStudioProjects/PhotoPicker/photopicker/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/btn_unselected.png",
+        "source": "/home/zhaoyun/work/AndroidStudioProjects/PhotoPicker/photopicker/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/btn_unselected.png"
+    },
+    {
+        "merged": "/home/zhaoyun/work/AndroidStudioProjects/PhotoPicker/photopicker/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/btn_back.png",
+        "source": "/home/zhaoyun/work/AndroidStudioProjects/PhotoPicker/photopicker/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/btn_back.png"
+    },
+    {
+        "merged": "/home/zhaoyun/work/AndroidStudioProjects/PhotoPicker/photopicker/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/ic_dir.png",
+        "source": "/home/zhaoyun/work/AndroidStudioProjects/PhotoPicker/photopicker/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/ic_dir.png"
+    },
+    {
+        "merged": "/home/zhaoyun/work/AndroidStudioProjects/PhotoPicker/photopicker/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/ic_photo_loading.png",
+        "source": "/home/zhaoyun/work/AndroidStudioProjects/PhotoPicker/photopicker/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/ic_photo_loading.png"
+    }
+]

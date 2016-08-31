@@ -1,0 +1,6 @@
+<resources>
+    <color name="white" >#ffffff</color>
+    <color name="bg_floder_press">#bdbdbd</color>
+    <color name="preview">#757575</color>
+    <color name="preview_enabled">#A9ffffff</color>
+</resources>
