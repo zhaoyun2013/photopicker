@@ -1,6 +1,8 @@
 # PhotoPicker
 An android library to pick photo from gallery
 
+# Sample
+![image](https://github.com/zhaoyun2013/photopicker/blob/master/demo.gif)
 <br/>
 # Usage
 ```
